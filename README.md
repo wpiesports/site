@@ -5,7 +5,7 @@ This is a static site for WPI's esports club. It is built on **[Hugo](https://go
 # Developing
 
 1. Clone this repo and [install Hugo](https://gohugo.io/getting-started/installing/)
-2. In a terminal, navigate to the repo and run `hugo server -D
+2. In a terminal, navigate to the repo and run `hugo server -D`
 3. Make changes as necessary; the server should update automatically
 
 # Contributing
