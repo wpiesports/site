@@ -10,4 +10,4 @@ This is a static site for WPI's esports club. It is built on **[Hugo](https://go
 
 # Contributing
 
-If any information is inaccurate or out of date, feel free to submit a PR!
+If any information is inaccurate or out of date, feel free to submit a PR.
