@@ -7,10 +7,10 @@ draft: false
 # Club Executives
 |||
 | --- | ----------- |
-| **President** | Liam Rathke (PULGASARI) |
-| **Vice President** | Jason Odell (uginghostdragon) |
-| **Secretary** | Connor Chartier (DaCowGoMoo) |
-| **Treasurer** | Josh Keselman (Kesstrel) |
+| **President** | Liam (PULGASARI) |
+| **Vice President** | Jason (uginghostdragon) |
+| **Secretary** | Connor (DaCowGoMoo) |
+| **Treasurer** | Josh (Kesstrel) |
 
 # Competitive Managers
 | | |
@@ -20,9 +20,9 @@ draft: false
 | **Counter-Strike: Global Offensive**| Troy (Splatt)|
 | **Fortnite** |  Amun (Rad) |
 | **Hearthstone** | Vijay (Schnellaffe) |
-| **League of Legends** | Jason Odell (uginghostdragon) |
+| **League of Legends** | Jason (uginghostdragon) |
 | **osu!** | Nick ((uginghostdragon)) |
-| **Overwatch** | Liam Rathke (PULGASARI) |
+| **Overwatch** | Liam (PULGASARI) |
 | **Rainbow Six Siege** | ??? (Enoch) |
 | **Rocket League** | Chris (Thelama11) |
 | **Valorant** | Jack (Nayeon) |
@@ -30,4 +30,4 @@ draft: false
 # Specialists
 | | |
 | --- | ----------- |
-| **Video Editor** | Samuel Currid (Moelandblue) |
+| **Video Editor** | Sam (Moelandblue) |
