@@ -51,11 +51,11 @@ params:
   profileMode:
     enabled: false # needs to be explicitly set
     title: WPI Esports
-    subtitle: "Worcester Polytechnic Institute's esports club"
+    subtitle: "Worcester Polytechnic Institute's Esports Club"
     imageUrl: "/logo.png"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: WPI Esports logo
+    imageTitle: WPI Esports Logo
     buttons:
       - name: Posts
         url: posts
@@ -65,9 +65,11 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Welcome to WPI Esports!"
-    Content: "For now, this site is still under construction. In the meantime, make sure to follow us on social media to receive our latest news and updates."
+    Content: "We compete in intercollegiate tournaments, host local events, and provide other esports opportunities for the WPI community. Recently we opened the Esports Lab which you can read about [here](https://www.google.com). If you're interested in our community, check out the socials below or the articles on this website."
 
   socialIcons:
+    - name: discord
+      url: "https://discord.gg/WJ8gEcd"
     - name: twitter
       url: "https://twitter.com/wpiesports"
     - name: instagram
@@ -88,8 +90,12 @@ menu:
       name: "About"
       url: /about/
       weight: 10
+    - identifier: esports-lab
+      name: "Esports Lab"
+      url: /esports_lab
+      weight: 10
     - identifier: teams
-      name: "Competitive Teams"
+      name: "Teams"
       url: /teams/
       weight: 20
     - identifier: events
