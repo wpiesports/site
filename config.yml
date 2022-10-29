@@ -23,7 +23,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -65,7 +65,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Welcome to WPI Esports!"
-    Content: "We compete in intercollegiate tournaments, host local events, and provide other esports opportunities for the WPI community. Recently we opened the Esports Lab which you can read about [here](https://www.google.com). If you're interested in our community, check out the socials below or the articles on this website."
+    Content: "We compete in intercollegiate tournaments, host local events, and provide other esports opportunities for the WPI community. Recently we opened the Esports Lab which you can read about [here](/esports_lab). If you're interested in our community, check out the socials below or the articles on this website."
 
   socialIcons:
     - name: discord
@@ -78,6 +78,8 @@ params:
       url: "https://www.youtube.com/channel/UCy-L_lTEMaxCBcahqtZSRjg?ltclid="
     - name: twitch
       url: "https://twitch.tv/wpiesports"
+    - name: email
+      url: "mailto:gr-esports-exec@wpi.edu"
 
   cover:
     hidden: true # hide everywhere but not in structured data
