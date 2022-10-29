@@ -20,8 +20,8 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 | **Apex Legends** | TBD |
 | **Dota 2** | Dimitri (Shwarrma)|
 | **Counter-Strike: Global Offensive**| Troy (Splatt)|
-| **Fortnite** |  Amun (Rad) |
-| **Hearthstone** | Vijay (Schnellaffe) |
+| **Fortnite** |  Amun (R4D777) |
+| **Hearthstone** | Vijay M. (Schnellaffe) |
 | **League of Legends** | Jason O. (uginghostdragon) |
 | **osu!** | Nick (nMM456) |
 | **Overwatch** | Liam R. (PULGASARI) |
