@@ -27,7 +27,7 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 | **Overwatch** | Liam R. (PULGASARI) |
 | **Rainbow Six Siege** | Enoch |
 | **Rocket League** | Chris (Thelama11) |
-| **Valorant** | Jack (Nayeon) |
+| **Valorant** | Irene (ZeraRin) |
 
 # Specialists
 | | |
