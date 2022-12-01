@@ -7,10 +7,10 @@ draft: false
 # Club Executives
 |||
 | --- | ----------- |
-| **President** | Liam R. (PULGASARI) |
-| **Vice President** | Jason O. (uginghostdragon) |
-| **Secretary** | Connor C. (DaCowGoMoo) |
-| **Treasurer** | Josh K. (Kesstrel) |
+| **President** | Connor C. (DaCowGoMoo) |
+| **Vice President** | Josh K. (Kesstrel) |
+| **Secretary** | Nick M. (nMM456) |
+| **Treasurer** | TBD |
 
 Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-esports-exec@wpi.edu](mailto:gr-esports-exec@wpi.edu)!
 
