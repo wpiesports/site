@@ -10,7 +10,7 @@ draft: false
 | **President** | Connor C. (DaCowGoMoo) |
 | **Vice President** | Josh K. (Kesstrel) |
 | **Secretary** | Nick M. (nMM456) |
-| **Treasurer** | TBD |
+| **Treasurer** | Vijay M. (Schnellaffe) |
 
 Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-esports-exec@wpi.edu](mailto:gr-esports-exec@wpi.edu)!
 
