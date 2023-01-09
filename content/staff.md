@@ -24,7 +24,7 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 | **Hearthstone** | Vijay M. (Schnellaffe) |
 | **League of Legends** | Jason O. (uginghostdragon) |
 | **osu!** | Nick (nMM456) |
-| **Overwatch** | Liam R. (PULGASARI) |
+| **Overwatch** | Matt W. (Spikeball) |
 | **Rainbow Six Siege** | Enoch |
 | **Rocket League** | Chris (Thelama11) |
 | **Valorant** | Irene (ZeraRin) |
