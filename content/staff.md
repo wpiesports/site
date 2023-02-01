@@ -14,8 +14,16 @@ draft: false
 
 Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-esports-exec@wpi.edu](mailto:gr-esports-exec@wpi.edu)!
 
+# Specialized Admins
+|||
+| --- | ----------- |
+| **Graphic Designer** | Marina N. |
+| **Livestream Manager** | Tim K. (Yoyo) |
+| **Social Media Manager** | Michael G. (Mega Gamer) |
+| **Webmaster** | Sam C. (Moelandblue) |
+
 # Competitive Managers
-| | |
+|||
 | --- | ----------- |
 | **Apex Legends** | TBD |
 | **Dota 2** | Dimitri (Shwarrma)|
@@ -28,8 +36,3 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 | **Rainbow Six Siege** | Enoch |
 | **Rocket League** | Chris (Thelama11) |
 | **Valorant** | Irene (ZeraRin) |
-
-# Specialists
-| | |
-| --- | ----------- |
-| **Video Editor** | Sam C. (Moelandblue) |
