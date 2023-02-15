@@ -25,7 +25,7 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 # Competitive Managers
 |||
 | --- | ----------- |
-| **Apex Legends** | TBD |
+| **Apex Legends** | Kurtis (theQuipster) |
 | **Dota 2** | Dimitri (Shwarrma)|
 | **Counter-Strike: Global Offensive**| Troy (Splatt)|
 | **Fortnite** |  Amun (R4D777) |
