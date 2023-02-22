@@ -35,4 +35,5 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 | **Overwatch** | Matt W. (Spikeball) |
 | **Rainbow Six Siege** | Enoch |
 | **Rocket League** | Chris (Thelama11) |
+| **Splatoon** | Alex (Krona) |
 | **Valorant** | Irene (ZeraRin) |
