@@ -20,6 +20,7 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 | **Graphic Designer** | Marina N. |
 | **Livestream Manager** | Tim K. (Yoyo) |
 | **Social Media Manager** | Michael G. (Mega Gamer) |
+| **Video Editor** | Jon (SwiftPanda) |
 | **Webmaster** | Sam C. (Moelandblue) |
 
 # Competitive Managers
