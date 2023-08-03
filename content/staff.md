@@ -26,12 +26,12 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 # Competitive Managers
 |||
 | --- | ----------- |
-| **Apex Legends** | Kurtis (theQuipster) |
+| **Apex Legends** | TBD |
 | **Dota 2** | Dimitri (Shwarrma)|
 | **Counter-Strike: Global Offensive**| Troy (Splatt)|
 | **Fortnite** |  Amun (R4D777) |
 | **Hearthstone** | Vijay M. (Schnellaffe) |
-| **League of Legends** | Jason O. (uginghostdragon) |
+| **League of Legends** | Josh K. (Kesstrel) |
 | **osu!** | Nick (nMM456) |
 | **Overwatch** | Matt W. (Spikeball) |
 | **Rainbow Six Siege** | Enoch |
