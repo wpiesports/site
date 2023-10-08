@@ -17,9 +17,6 @@ N/A (Teams still being created)
 # Fortnite
 1 team with 9 members total
 
-# Hearthstone
-2 teams with 6 members total
-
 # League of Legends
 6 teams with 49 members total
 
