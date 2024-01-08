@@ -7,9 +7,9 @@ draft: false
 # Club Executives
 |||
 | --- | ----------- |
-| **President** | Connor C. (DaCowGoMoo) |
-| **Vice President** | Josh K. (Kesstrel) |
-| **Secretary** | Nick M. (nMM456) |
+| **President** | Josh K. (Kesstrel) |
+| **Vice President** | Yara N. (soapsugie) |
+| **Secretary** | Jon T. (SwiftPanda) |
 | **Treasurer** | Vijay M. (Schnellaffe) |
 
 Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-esports-exec@wpi.edu](mailto:gr-esports-exec@wpi.edu)!
@@ -20,7 +20,7 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 | **Graphic Designer** | Marina N. |
 | **Livestream Manager** | Tim K. (Yoyo) |
 | **Social Media Manager** | Michael G. (Mega Gamer) |
-| **Video Editor** | Jon (SwiftPanda) |
+| **Video Editor** | Jon T. (SwiftPanda) |
 | **Webmaster** | Sam C. (Moelandblue) |
 
 # Competitive Managers
