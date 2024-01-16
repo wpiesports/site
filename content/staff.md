@@ -18,7 +18,7 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 |||
 | --- | ----------- |
 | **Event Manager** | Irene (ZeraRin) |
-| **Event Coordinator | Andrea M. (yeyitaaa)<br>Sameer (DaKapRRl) |
+| **Event Coordinator** | Andrea M. (yeyitaaa)<br>Sameer (DaKapRRl) |
 | **Graphic Designer** | Dennis F. (DennisDragonz)<br>Kseniia R. (Ksesha) |
 | **Livestream Manager** | Tim K. (Yoyo)<br>Max A. (Mantis) |
 | **Social Media Manager** | Abigail L. (Psyternal) |
