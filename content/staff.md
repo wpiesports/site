@@ -17,9 +17,11 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 # Specialized Admins
 |||
 | --- | ----------- |
-| **Graphic Designer** | Marina N. |
-| **Livestream Manager** | Tim K. (Yoyo) |
-| **Social Media Manager** | Michael G. (Mega Gamer) |
+| **Event Manager** | Irene (ZeraRin) |
+| **Event Coordinator | Andrea M. (yeyitaaa)<br>Sameer (DaKapRRl) |
+| **Graphic Designer** | Dennis F. (DennisDragonz)<br>Kseniia R. (Ksesha) |
+| **Livestream Manager** | Tim K. (Yoyo)<br>Max A. (Mantis) |
+| **Social Media Manager** | Abigail L. (Psyternal) |
 | **Video Editor** | Jon T. (SwiftPanda) |
 | **Webmaster** | Sam C. (Moelandblue) |
 
