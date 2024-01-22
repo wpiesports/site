@@ -9,5 +9,5 @@ WPI has been competing in esports for over 6 years in a wide range of titles. We
 If you'd like to contact us, join our [Discord](https://discord.gg/WJ8gEcd) or send an email to [gr-esports-exec@wpi.edu](mailto:gr-esports-exec@wpi.edu)!
 <br>
 <p align="center">
-    <img src="poster.png" width="80%", height="80%"/>
+    <img src="../poster.webp" width="80%", height="80%"/>
 </p>
