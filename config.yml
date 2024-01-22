@@ -65,7 +65,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Welcome to WPI Esports!"
-    Content: "We compete in intercollegiate tournaments, host local events, and provide other esports opportunities for the WPI community. Recently we opened the Esports Lab which you can read about [here](/esports_lab). If you're interested in our community, check out the socials below or the articles on this website.\n\n![poster](/poster.webp)"
+    Content: "We compete in intercollegiate tournaments, host local events, and provide other esports opportunities for the WPI community. Recently we opened the Esports Lab which you can read about [here](/esports_lab). If you're interested in our community, check out the socials below or the articles on this website.<br /><br />![poster](/poster.webp)"
 
   socialIcons:
     - name: discord
