@@ -7,16 +7,14 @@ draft: false
 
 # Counter-Strike 2
 
-# Fortnite
-
 # League of Legends
 
 # osu!
 
-# Overwatch
-
-# Rainbow 6 Siege
+# Overwatch 2
 
 # Rocket League
+
+# Splatoon
 
 # Valorant
