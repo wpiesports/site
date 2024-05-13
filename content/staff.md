@@ -30,7 +30,6 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 |||
 | --- | ----------- |
 | **Counter-Strike: Global Offensive**| Troy (Splatt)|
-| **Hearthstone** | Vijay M. (Schnellaffe) |
 | **League of Legends** | Josh K. (Kesstrel) |
 | **osu!** | Nick (nMM456) |
 | **Overwatch** | Matt W. (Spikeball) |
