@@ -33,6 +33,6 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 | **League of Legends** | Josh K. (Kesstrel) |
 | **osu!** | Nick (nMM456) |
 | **Overwatch** | Matt W. (Spikeball) |
-| **Rocket League** | Chris (Thelama11) |
+| **Rocket League** | Tim K. (Yoyo) |
 | **Splatoon** | Alex (Krona) |
 | **Valorant** | Jon T. (SwiftPanda) |
