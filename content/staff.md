@@ -29,7 +29,7 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 # Competitive Managers
 |||
 | --- | ----------- |
-| **Counter-Strike: Global Offensive**| Troy (Splatt)|
+| **Counter-Strike: Global Offensive**| Sameer (DaKapRRl) |
 | **League of Legends** | Josh K. (Kesstrel) |
 | **osu!** | Nick (nMM456) |
 | **Overwatch** | Matt W. (Spikeball) |
