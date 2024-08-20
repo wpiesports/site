@@ -34,5 +34,5 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 | **osu!** | Nick (nMM456) |
 | **Overwatch** | Matt W. (Spikeball) |
 | **Rocket League** | Tim K. (Yoyo) |
-| **Splatoon** | Alex (Krona) |
+| **Splatoon** | Alex (Krona), Connor D. (mario_runner) |
 | **Valorant** | Jon T. (SwiftPanda) |
