@@ -32,7 +32,7 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 | **Counter-Strike: Global Offensive**| Sameer (DaKapRRl) |
 | **League of Legends** | Josh K. (Kesstrel) |
 | **osu!** | Nick (nMM456) |
-| **Overwatch** | Matt W. (Spikeball) |
+| **Overwatch** | Kaiden (.shadowbow) |
 | **Rocket League** | Tim K. (Yoyo) |
 | **Splatoon** | Alex (Krona), Connor D. (mario_runner) |
 | **Valorant** | Jon T. (SwiftPanda) |
