@@ -24,17 +24,17 @@ draft: false
 Founded in the Fall of 2022, ***WPI Splatoon Folks*** has grown into a sizable program with members across various competitive levels. Primarily focused on competition within the *Collegiate Cephalopod Association* (CCA), WPI teams have a rich competitive history and serve as one of the cornerstones of the collegiate community. Recent results and happenings can be found on the [WPI Splatoon Folks Twitter Page](https://x.com/WPI_Splatoon)
 
 ***WPI Grizzco Workers Union*** (Active, Sep 2022 - Current)
-- :trophy: CCA League Season 2 Division 3 Champion
+- Winner: CCA League Season 2 Division 3 Champion
 - CCA Booyah Bowl 2 Competitor 
 - First place: Little Squid League 30: Silver Bracket
 - Second place: From the Ink Up! 37: Gold Bracket
 - Second place: New InkLAN #1
-- :trophy: CCA League Season 4 Division 3 Champion
+- Winner: CCA League Season 4 Division 3 Champion
 - CCA Booyah Bowl 3 Competitor
 
 ***WPI Grizzco Union Busters*** (Retired, May 2023 - May 2024)
 - Third place: New InkLAN #1
-- :trophy: CCA League Season 5 Division 4 Champion
+- Winner: CCA League Season 5 Division 4 Champion
 - CCA Booyah Bowl 3 Competitor 
 
 **Featured Content:**
