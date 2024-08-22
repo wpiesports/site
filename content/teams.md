@@ -26,14 +26,14 @@ Founded in the Fall of 2022, ***WPI Splatoon Folks*** has grown into a sizable p
 ***WPI Grizzco Workers Union*** (Active, Sep 2022 - Current)
 - :trophy: CCA League Season 2 Division 3 Champion
 - CCA Booyah Bowl 2 Competitor 
-- :first_place: Little Squid League 30: Silver Bracket
-- :second_place: From the Ink Up! 37: Gold Bracket
-- :second_place: New InkLAN #1
+- First place: Little Squid League 30: Silver Bracket
+- Second place: From the Ink Up! 37: Gold Bracket
+- Second place: New InkLAN #1
 - :trophy: CCA League Season 4 Division 3 Champion
 - CCA Booyah Bowl 3 Competitor
 
 ***WPI Grizzco Union Busters*** (Retired, May 2023 - May 2024)
-- :third_place: New InkLAN #1
+- Third place: New InkLAN #1
 - :trophy: CCA League Season 5 Division 4 Champion
 - CCA Booyah Bowl 3 Competitor 
 
