@@ -38,6 +38,13 @@ Tryouts will be held on 09/06/24 (Friday) at 6 pm EST.  We will primarily be c
 
 Please fill out this form to sign up: [form](https://forms.gle/2LwVyYo2rEtzvGE98).
 
+## September 8, 11:59pm
+### Valorant Tryouts Close
+Calling all Valorant players:
+Welcome back returning and upcoming Valorant players! Its that time of the year for tryouts for the upcoming collegiate 2024-2025 Valorant competitive season hosted by Riot Games. **Sign-ups will close on 09/08/24 (Sunday) at 11:59PM EST.**
+
+Tryouts will be held on 09/14/24 & 09/15/24 at 7PM EST. Please fill out this form to sign up: [form](https://forms.gle/wPTe2s1uHzp3iP9VA)
+
 ## September 14
 ### First round of Splatoon Signups Close
 Howdy y'all, hope everyone's almost-start-to-school is going great. We're really excited to start to kick off the Splatoon scene for the year. So whether you're interested in jumping right onto a team, or just want to learn a little more about casual or competitive Splatoon here at WPI, take a minute to fill out this quick form: [Info Form](https://docs.google.com/forms/d/e/1FAIpQLSdO363DRgD3V9nYWVC-oK2EtO8801h82VR7c-Pbvtsu2_CWpg/viewform)
