@@ -109,6 +109,10 @@ menu:
       name: "Staff"
       url: /staff/
       weight: 40
+    - identifier: joindiscord
+      name: "Join our Discord"
+      url: "https://discord.gg/WJ8gEcd"
+      weight: 40
 
 markup:
   goldmark:
