@@ -6,6 +6,7 @@ draft: false
 <!-- Number of teams and number of players -->
 
 # Counter-Strike 2
+**Signups for CS2 2024 are open**: [signup form](https://forms.gle/2LwVyYo2rEtzvGE98)
 
 # League of Legends
 **Signups for League of Legends 2024 are open**: [signup form](https://forms.gle/MZv6WntX6Vockr1R9)
