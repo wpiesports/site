@@ -13,7 +13,7 @@ Kickoff will start at **3pm on August 31st**, in the East Hall lounge + Esports 
 We're really excited to do this and hope it can be the start of a great new tradition, so please stop by, bring your friends, and have a good time!
 
 ## September 2, 11:59pm
-### Rocket League Tryouts Close
+### Rocket League Signups Close
 Time has come again for a brand new season of competitive Rocket League!
 
 [Sign ups](https://docs.google.com/forms/d/e/1FAIpQLSdiHI54ss_iSeeXeuJ59z9YFHi0eUuShKu9wGuOAKXz6uALhQ/viewform) are now open to all WPI students. We have had up to 6 different concurrent RL teams in the past, so no matter what rank you are, we will most likely have a spot for you. We play competitively in NECC, a league with multiple different brackets, to ensure that teams are evenly matched. Because we have a new Competitive Manager for RL (@yoyo.4444), all returning players who want to participate in this season need to fill out the form, even if you already know the team you are going to be on. **Sign ups close on September 2nd, 11:59pm**
