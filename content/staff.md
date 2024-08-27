@@ -20,10 +20,10 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 | --- | ----------- |
 | **Caster** | Daniel (Jraxen) |
 | **Event Coordinator** | Andrea M. (yeyitaaa)<br>Sameer (DaKapRRl) |
-| **Graphic Designer** | Dennis F. (DennisDragonz)<br>Kseniia R. (Ksesha) |
+| **Graphic Designer** | Vincent H. (Vini) |
 | **Livestream Manager** | Tim K. (Yoyo)<br>Max A. (Mantis) |
 | **Social Media Manager** | Abigail L. (Psyternal) |
-| **Video Editor** | Jon T. (SwiftPanda) |
+| **Video Editor** | Jamie N. (Fireknight) |
 | **Webmaster** | Sam C. (Moelandblue) |
 
 # Competitive Managers
