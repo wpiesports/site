@@ -3,20 +3,22 @@ title: "Events"
 date: 2024-01-14T13:06:06-04:00
 draft: false
 ---
-## August 31st, 3pm-6pm
-### Kickoff
+## September 15, 11:59pm
+### League of Legends Tryouts Close
+It's tryouts time! We'll once again be competing in the College League of Legends tournnament run by Riot Games, so whether you're an experienced esports player or a complete newbie, we'd love to see you sign up and play! 
 
-Exec is very happy to announce our first event of the year, the first (hopefully annual) **WPI Esports Kickoff!** This will be a chance to everyone to meet other players, talk to exec, and learn more about the club. And eat free pizza. This is open to anyone, whether or not they're interested in playing on a team.
+Tryouts will run the nights of 9/20-9/22 - these will be a series of games meant to help us evaluate both player skill and also team fit so we can make sure everyone's experience is as good as possible. Sign up here: [signup form](https://forms.gle/MZv6WntX6Vockr1R9). More details on timing/format are in the form.
 
-Kickoff will start at **3pm on August 31st**, in the East Hall lounge + Esports Lab. We'll have a variety of mini-tournaments for different games to help people get familiar with the new space. At 4pm, we'll do a lil introduction + official kickoff, and then more gaming until the pizza arrives.
+## September 14
+### First round of Splatoon Signups Close
+Howdy y'all, hope everyone's almost-start-to-school is going great. We're really excited to start to kick off the Splatoon scene for the year. So whether you're interested in jumping right onto a team, or just want to learn a little more about casual or competitive Splatoon here at WPI, take a minute to fill out this quick form: [Info Form](https://docs.google.com/forms/d/e/1FAIpQLSdO363DRgD3V9nYWVC-oK2EtO8801h82VR7c-Pbvtsu2_CWpg/viewform)
 
-We're really excited to do this and hope it can be the start of a great new tradition, so please stop by, bring your friends, and have a good time!
+## September 8, 11:59pm
+### Valorant Tryouts Close
+Calling all Valorant players:
+Welcome back returning and upcoming Valorant players! Its that time of the year for tryouts for the upcoming collegiate 2024-2025 Valorant competitive season hosted by Riot Games. **Sign-ups will close on 09/08/24 (Sunday) at 11:59PM EST.**
 
-## September 2, 11:59pm
-### Rocket League Signups Close
-Time has come again for a brand new season of competitive Rocket League!
-
-[Sign ups](https://docs.google.com/forms/d/e/1FAIpQLSdiHI54ss_iSeeXeuJ59z9YFHi0eUuShKu9wGuOAKXz6uALhQ/viewform) are now open to all WPI students. We have had up to 6 different concurrent RL teams in the past, so no matter what rank you are, we will most likely have a spot for you. We play competitively in NECC, a league with multiple different brackets, to ensure that teams are evenly matched. Because we have a new Competitive Manager for RL (@yoyo.4444), all returning players who want to participate in this season need to fill out the form, even if you already know the team you are going to be on. **Sign ups close on September 2nd, 11:59pm**
+Tryouts will be held on 09/14/24 & 09/15/24 at 7PM EST. Please fill out this form to sign up: [form](https://forms.gle/wPTe2s1uHzp3iP9VA)
 
 ## September 5, 11:59pm
 ### Overwatch 2 Tryouts Close
@@ -38,22 +40,20 @@ Tryouts will be held on 09/06/24 (Friday) at 6 pm EST.  We will primarily be c
 
 Please fill out this form to sign up: [form](https://forms.gle/2LwVyYo2rEtzvGE98).
 
-## September 8, 11:59pm
-### Valorant Tryouts Close
-Calling all Valorant players:
-Welcome back returning and upcoming Valorant players! Its that time of the year for tryouts for the upcoming collegiate 2024-2025 Valorant competitive season hosted by Riot Games. **Sign-ups will close on 09/08/24 (Sunday) at 11:59PM EST.**
+## September 2, 11:59pm
+### Rocket League Signups Close
+Time has come again for a brand new season of competitive Rocket League!
 
-Tryouts will be held on 09/14/24 & 09/15/24 at 7PM EST. Please fill out this form to sign up: [form](https://forms.gle/wPTe2s1uHzp3iP9VA)
+[Sign ups](https://docs.google.com/forms/d/e/1FAIpQLSdiHI54ss_iSeeXeuJ59z9YFHi0eUuShKu9wGuOAKXz6uALhQ/viewform) are now open to all WPI students. We have had up to 6 different concurrent RL teams in the past, so no matter what rank you are, we will most likely have a spot for you. We play competitively in NECC, a league with multiple different brackets, to ensure that teams are evenly matched. Because we have a new Competitive Manager for RL (@yoyo.4444), all returning players who want to participate in this season need to fill out the form, even if you already know the team you are going to be on. **Sign ups close on September 2nd, 11:59pm**
 
-## September 14
-### First round of Splatoon Signups Close
-Howdy y'all, hope everyone's almost-start-to-school is going great. We're really excited to start to kick off the Splatoon scene for the year. So whether you're interested in jumping right onto a team, or just want to learn a little more about casual or competitive Splatoon here at WPI, take a minute to fill out this quick form: [Info Form](https://docs.google.com/forms/d/e/1FAIpQLSdO363DRgD3V9nYWVC-oK2EtO8801h82VR7c-Pbvtsu2_CWpg/viewform)
+## August 31st, 3pm-6pm
+### Kickoff
 
-## September 15, 11:59pm
-### League of Legends Tryouts Close
-It's tryouts time! We'll once again be competing in the College League of Legends tournnament run by Riot Games, so whether you're an experienced esports player or a complete newbie, we'd love to see you sign up and play! 
+Exec is very happy to announce our first event of the year, the first (hopefully annual) **WPI Esports Kickoff!** This will be a chance to everyone to meet other players, talk to exec, and learn more about the club. And eat free pizza. This is open to anyone, whether or not they're interested in playing on a team.
 
-Tryouts will run the nights of 9/20-9/22 - these will be a series of games meant to help us evaluate both player skill and also team fit so we can make sure everyone's experience is as good as possible. Sign up here: [signup form](https://forms.gle/MZv6WntX6Vockr1R9). More details on timing/format are in the form.
+Kickoff will start at **3pm on August 31st**, in the East Hall lounge + Esports Lab. We'll have a variety of mini-tournaments for different games to help people get familiar with the new space. At 4pm, we'll do a lil introduction + official kickoff, and then more gaming until the pizza arrives.
+
+We're really excited to do this and hope it can be the start of a great new tradition, so please stop by, bring your friends, and have a good time!
 
 **Signups will close at 11:59 on 9/15.** All skill levels welcome!
 
