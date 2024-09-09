@@ -3,6 +3,12 @@ title: "Events"
 date: 2024-01-14T13:06:06-04:00
 draft: false
 ---
+## September 29, 12:00pm
+### League of Legends Tournament
+Our first tournament of the year will be for League of Legends, on Sunday, September 29th, starting 12pm. All games will take place in the East Hall Esports Lab. Any WPI student is welcome to play regardless of being a "member" of WPI esports, so invite your friends and sign up! Please make sure if you're signing up with a team please make sure all team members fill out the form and put the EXACT SAME TEAMMATES. We'll also have pizza and drinks are all players!!!
+
+Signup here: https://forms.gle/x6bxmnuignsrhU2v8. **Signups will close at 11:59pm on 9/26**
+
 ## September 15, 11:59pm
 ### League of Legends Tryouts Close
 It's tryouts time! We'll once again be competing in the College League of Legends tournnament run by Riot Games, so whether you're an experienced esports player or a complete newbie, we'd love to see you sign up and play! 
