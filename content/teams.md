@@ -6,7 +6,6 @@ draft: false
 <!-- Number of teams and number of players -->
 
 # Counter-Strike 2
-**Signups for CS2 2024 are open**: [signup form](https://forms.gle/2LwVyYo2rEtzvGE98)
 
 # League of Legends
 **Signups for League of Legends 2024 are open**: [signup form](https://forms.gle/MZv6WntX6Vockr1R9)
@@ -14,10 +13,8 @@ draft: false
 # osu!
 
 # Overwatch 2
-**Signups for Overwatch 2 2024 are open**: [signup form](https://docs.google.com/forms/d/e/1FAIpQLScu_JnDcndp8xknIjDOlc75y6cc-CVQ7JiAQloaout9Wb7Q0A/viewform?usp=sf_link)
 
 # Rocket League
-**Signups for Rocket League 2024 are open**: [signup form](https://docs.google.com/forms/d/e/1FAIpQLSdiHI54ss_iSeeXeuJ59z9YFHi0eUuShKu9wGuOAKXz6uALhQ/viewform)
 
 # Splatoon
 **Signups for Splatoon 2024 are open**: [signup form](https://docs.google.com/forms/d/e/1FAIpQLSdO363DRgD3V9nYWVC-oK2EtO8801h82VR7c-Pbvtsu2_CWpg/viewform)
