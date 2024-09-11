@@ -33,6 +33,7 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 | **League of Legends** | Josh K. (Kesstrel) |
 | **osu!** | Patrick (perpetualsheep) |
 | **Overwatch** | Kaiden (.shadowbow) |
+| **R6 Siege** | Marc (marchello25) |
 | **Rocket League** | Tim K. (Yoyo) |
 | **Splatoon** | Alex (Krona), Connor D. (mario_runner) |
 | **Valorant** | Jon T. (SwiftPanda) |
