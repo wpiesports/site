@@ -43,4 +43,3 @@ Founded in the Fall of 2022, ***WPI Splatoon Folks*** has grown into a sizable p
 - [[Article] Splat Magazine May 2024 - CCA: Springing from the Academic Year](https://issuu.com/rosearrow/docs/may_2024/22?fr=sMDMxNDcyMzUzNDg)
 
 # Valorant
-**Signups for Valorant 2024 are open: [signup form](https://forms.gle/wPTe2s1uHzp3iP9VA)**
