@@ -8,7 +8,6 @@ draft: false
 # Counter-Strike 2
 
 # League of Legends
-**Signups for League of Legends 2024 are open**: [signup form](https://forms.gle/MZv6WntX6Vockr1R9)
 
 # osu!
 
