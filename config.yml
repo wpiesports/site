@@ -66,7 +66,7 @@ params:
   homeInfoParams:
     Title: "Welcome to WPI Esports!"
     Content: > 
-      We compete in intercollegiate tournaments, host local events, and provide other esports opportunities for the WPI community. Recently we opened the Esports Lab which you can read about [here](/esports_lab). If you're interested in our community, check out the socials below or the articles on this website.<br /><br />
+      We compete in intercollegiate tournaments, host local events, and provide other esports opportunities for the WPI community. Recently we opened the Esports Lab which you can read about [here](/esports_lab). If you're interested in our community, check out the socials below or the articles on this website.<br /><br />[![Rocket League Tournament](/static/rl11_9_24-ezgif.com-webp-to-jpg-converter.jpg)](https://forms.gle/xyzM6J34Diex7NCU9)
       
   socialIcons:
     - name: discord
