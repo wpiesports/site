@@ -7,12 +7,11 @@ draft: false
 # Club Executives
 |||
 | --- | ----------- |
-| **President** | Josh K. (Kesstrel) |
-| **Vice President** | Yara N. (soapsugie) |
-| **Secretary** | Jon T. (SwiftPanda) |
-| **Treasurer** | Vijay M. (Schnellaffe) |
-| **Event Manager** | Irene (ZeraRin) |
-| **Interim Event Manager** | Sameer (DaKapRRl) |
+| **President** | Yara N. (soapsugie) |
+| **Vice President** | Tim K. (Yoyo) |
+| **Secretary** | Abigail L. (psyternal) |
+| **Treasurer** | Dennis F. (dennisdragonz) |
+| **Event Manager** | Sameer (DaKapRRl) |
 
 Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-esports-exec@wpi.edu](mailto:gr-esports-exec@wpi.edu)!
 
