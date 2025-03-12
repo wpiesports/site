@@ -18,12 +18,11 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 # Specialized Admins
 |||
 | --- | ----------- |
-| **Caster** | Daniel (Jraxen) |
-| **Event Coordinator** | Andrea M. (yeyitaaa)<br>Sameer (DaKapRRl) |
-| **Graphic Designer** | Vincent H. (vincenzo1234) |
-| **Livestream Manager** | Tim K. (Yoyo)<br>Max A. (Mantis) |
-| **Social Media Manager** | Abigail L. (Psyternal) |
-| **Video Editor** | Jamie N. (whyaretheresomanyfireknights) |
+| **Talent Manager** | Francisco L. (magma3333) |
+| **Event Coordinator** | Shuying Z. (MystWillow) |
+| **Graphic Designer** | Kris F. (kzgamer_) |
+| **Livestream Manager** | Jonathan W. (jswessler) |
+| **Social Media Manager** | Sebastian P. (Sebasbarca) |
 | **Webmaster** | Sam C. (Moelandblue) |
 
 # Competitive Managers
@@ -31,9 +30,7 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 | --- | ----------- |
 | **Counter-Strike: Global Offensive**| Sameer (DaKapRRl) |
 | **League of Legends** | Josh K. (Kesstrel) |
-| **osu!** | Patrick (perpetualsheep) |
 | **Overwatch** | Kaiden (.shadowbow) |
-| **R6 Siege** | Marc (marchello25) |
 | **Rocket League** | Tim K. (Yoyo) |
 | **Splatoon** | Alex (Krona), Connor D. (mario_runner) |
 | **Valorant** | Jon T. (SwiftPanda) |
