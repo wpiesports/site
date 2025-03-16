@@ -23,7 +23,7 @@ Contact us in our [discord](https://discord.gg/WJ8gEcd) or send an email to [gr-
 | **Graphic Designer** | Kris F. (kzgamer_) |
 | **Livestream Manager** | Jonathan W. (jswessler) |
 | **Social Media Manager** | Sebastian P. (Sebasbarca) |
-| **Webmaster** | Sam C. (Moelandblue) |
+| **Technology Manager** | Ahmad Y. (Tay300) |
 
 # Competitive Managers
 |||
