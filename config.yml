@@ -1,6 +1,7 @@
 baseURL: "https://wpiesports.github.io/"
 title: WPI Esports
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
